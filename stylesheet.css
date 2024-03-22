@@ -1,0 +1,9 @@
+.ui-content {
+    text-align: center;
+}
+
+section {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
